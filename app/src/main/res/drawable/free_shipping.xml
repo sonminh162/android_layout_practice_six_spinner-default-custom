@@ -1,0 +1,11 @@
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--released state. -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/free_shipping"/>
+            <solid android:color="@color/white_smoke"/>
+            <stroke android:color="@color/midnight_moss" android:width="@dimen/dp1" />
+        </shape>
+    </item>
+
+</selector>

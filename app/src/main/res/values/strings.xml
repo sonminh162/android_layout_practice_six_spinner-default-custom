@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">layout_practice_six_grid-layout</string>
+    <string name="wine">Wine</string>
+    <string name="todo">TODO</string>
+    <string name="to_do">TODO</string>
+    <string name="r1c1_text">Empreinte Tradition 2011 - Cotes Du Jura</string>
+    <string name="r1c1_text2">Intense garnet red color, great balance and complexity elegant.</string>
+    <string name="price_r1c1">30USD / Bottle</string>
+    <string name="to_do_1">TODO</string>
+    <string name="free_ship">Free Shipping</string>
+    <string name="hot">HOT</string>
+    <string name="r1c2_text2">A rich, dense ruby color, hints at the dark fruit nose of blackberry.</string>
+    <string name="r1c2_text1">Cabernet Sauvignon 2013</string>
+    <string name="price_r1c2">130USD / Bottle</string>
+
+    <string-array name="numbers">
+        <item>Red Wine</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name="spinner_two">
+        <item>Smart filter</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name="spinner_three">
+        <item>Region</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name="spinner_four">
+        <item>To go with</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name="spinner_five">
+        <item>Type</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="black">#121212</color>
+    <color name="white_smoke">#f0f0f0</color>
+    <color name="bittersweet">#FB5E57</color>
+    <color name="shuttle_gray">#63656a</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="white">#ffffff</color>
+    <color name="midnight_moss">#232524</color>
+
+    <color name="item_background">#eae8e8</color>
+</resources>
